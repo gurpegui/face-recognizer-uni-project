@@ -1,0 +1,1 @@
+Para ejecutar el programa simplemente hay que pulsar 'Run all cells', tarda aproximadamente en entrenar 11 minutos con el dataset 1 y con el dataset 2 mucho mas.
